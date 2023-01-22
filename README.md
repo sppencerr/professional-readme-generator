@@ -14,6 +14,9 @@
 
   ## Description <a name="description"></a>
   a node.js application that builds a webpage based on employee information for the following roles, engineer, manager, and intern.
+  ## Product Example
+  This is the Read.me end result after one has been generated.
+  https://drive.google.com/file/d/1HTacAFl4KpTHHru6WDX5DDeaFb4kQKV6/view?usp=sharing
 ## Installation <a name="installation"></a>
 clone the repo or download the file and run in visual studio code
 ## Usage <a name="usage"></a>
