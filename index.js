@@ -1,6 +1,6 @@
-import inquirer from 'inquirer';
-import fs from 'fs';
-import util from 'util';
+const inquirer = require("inquirer");
+const fs = require("fs")
+const util = require("util")
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
